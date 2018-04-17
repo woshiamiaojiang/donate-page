@@ -66,7 +66,7 @@ a{
 	z-index: 1;
 }
 #donateBox li {
-	width: 74px;
+	width: 148px;
 	float: left;
 	text-align: center;
 	border-left: 1px solid #ddd;
@@ -94,13 +94,13 @@ a{
 #donateBox a {
 	display: block;
 }
-#donateBox #PayPal {
+/*#donateBox #PayPal {
 	background-image: url(images/paypal.svg);
 }
 #donateBox>#BTC {
 	background-image: url(images/bitcoin.svg);
 	line-height: 28px;
-}
+}*/
 #donateBox>#BTC:hover {
 	overflow: visible;
 }
